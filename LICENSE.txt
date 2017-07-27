@@ -1,0 +1,4 @@
+#This is a LICENSE file for my python webapp proj
+#author:MOYUMax		Date:2017/07/27
+#This project is for me to practice the python!
+#And for me to study make a webapp with Django!
